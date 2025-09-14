@@ -15,7 +15,7 @@ Antes de comenzar asegúrate de tener instalado en tu máquina:
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/calendario-vue.git
+   git clone https://github.com/JesusRico98/exam-calendar.git
    ```
 
 2. **Entrar al directorio del proyecto:**
